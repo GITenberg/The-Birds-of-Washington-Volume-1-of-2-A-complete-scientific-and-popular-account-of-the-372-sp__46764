@@ -1,9 +1,13 @@
 _repo: The-Birds-of-Washington-Volume-1-of-2-A-complete-scientific-and-popular-account-of-the-372-sp__46764
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Brooks, Allan
     gutenberg_agent_id: '43944'
     url: http://www.gutenberg.org/2009/agents/43944
+covers:
+- cover_type: archival
+  image_path: 46764-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Dawson, William Leon
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '43943'
     url: http://www.gutenberg.org/2009/agents/43943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46764#The-Birds-of-Washington-Volume-1-of-2-A-complete-scientific-and-popular-account-of-the-372-sp_
 gutenberg_issued: '2014-09-03'
 gutenberg_type: Text
 identifiers:

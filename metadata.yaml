@@ -27,6 +27,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "The Birds of Washington (Volume 1 of 2)\r\nA complete, scientific and popular\
   \ account of the 372 species of birds found in the state"
 url: http://www.gutenberg.org/ebooks/46764
